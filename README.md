@@ -1,0 +1,2 @@
+# utl_what_does_a_10_by_10_matrix_of_random_coin_flips_look_like
+What does a 10 by 10 matrix of random coin flips look like or is it a heat map. Keywords: sas sql join merge big data analytics macros oracle teradata mysql sas communities stackoverflow statistics artificial inteligence AI Python R Java Javascript WPS Matlab SPSS Scala Perl C C# Excel MS Access JSON graphics maps NLP natural language processing machine learning igraph DOSUBL DOW loop stackoverfl SAS community.
